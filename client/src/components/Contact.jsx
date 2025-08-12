@@ -20,7 +20,7 @@ const Contact = () => {
         console.log(name, email, phone, message)
         try {
             setSent(!sent)
-            const response = await axios.post('https://portfolio-cfwh.onrender.com/contact', { name, email, phone, message })
+            const response = await axios.post('https://portfolio-54y6.onrender.com/contact', { name, email, phone, message })
             // console.log(response.data)
             if (response.status === 200) {
                 setName('')
