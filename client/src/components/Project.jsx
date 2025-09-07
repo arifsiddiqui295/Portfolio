@@ -32,8 +32,8 @@ const Project = () => {
                     image={visual_ai}
                     image2={visual_ai2}
                     image3={visual_ai3}
-                    github="https://github.com/arifsiddiqui295/VisualizeAI-Client"
-                    live="https://visualize-ai-client-git-main-arifuddin-siddiquis-projects.vercel.app/"
+                    github="https://github.com/arifsiddiqui295/VisualAI"
+                    live="https://visual-ai-inky.vercel.app/"
                 />
                 <ProjectCards
                     title="Real-time Chat Application"
@@ -41,7 +41,7 @@ const Project = () => {
                     image2={chat_buzz2}
                     image3={chat_buzz3}
                     github="https://github.com/arifsiddiqui295/chat_buzz"
-                    live="https://chatbuzz.up.railway.app/"
+                    live="https://chat-buzz-qfuv.onrender.com"
                 />
                 <ProjectCards
                     title="Typing Verse"
@@ -49,7 +49,7 @@ const Project = () => {
                     image2={typing_verse2}
                     image3={typing_verse3}
                     github="https://github.com/arifsiddiqui295/TypeVerse"
-                    live="https://typingverse.up.railway.app/"
+                    live="https://type-verse-steel.vercel.app/"
                 />
                 <ProjectCards
                     title="Music Player"
