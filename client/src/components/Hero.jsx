@@ -43,7 +43,7 @@ const downloadResume = () => {
             <button
               className='px-[2rem] hover:bg-yellow-400 transition-all duration-200 py-[1rem] text-[18px] font-bold uppercase bg-[#55e6a5] text-black flex items-center space-x-2'
             >
-              <a target={'_blank'} href="https://drive.google.com/file/d/1W_PRGO3IX2fK_lamo3jsmzQ8nNO-5DKs/view?usp=sharing">View Resume</a>
+              <a target={'_blank'} href="https://www.dropbox.com/scl/fi/2kk3gkev46097unxehery/Arifuddin_Siddiqui_resume.pdf?rlkey=ctmb39r9amrrqqvz2nmq9aqqj&st=q79u7p0j&dl=0">View Resume</a>
               <ArrowForwardIcon />
             </button>
 
